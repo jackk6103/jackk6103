@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackk6103
-- 👀 I’m interested in coding
+- 👀 I’m interested in vibe-coding
 
 <!---
 jackk6103/jackk6103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
